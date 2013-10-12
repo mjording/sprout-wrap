@@ -16,3 +16,5 @@ node_attributes:
     -
       - sprout-wrap
       - https://github.com/mjording/sprout-wrap.git
+  homebrew:
+    repository: http://github.com/mjording/homebrew.git
